@@ -1,0 +1,36 @@
+{
+  "entity.remcompanion.rem": "Rem",
+  "item.remcompanion.rem_spawn_egg": "Huevo generador de Rem",
+
+  "stage.remcompanion.rem.1": "Conocida",
+  "stage.remcompanion.rem.2": "Amiga",
+  "stage.remcompanion.rem.3": "Muy cercana",
+  "stage.remcompanion.rem.4": "Devota",
+
+  "dialogue.remcompanion.rem.stranger.0": "...No te conozco. ¿Qué quieres de mí?",
+  "dialogue.remcompanion.rem.stranger.1": "Mantén las distancias, por favor. Aún no sé si puedo confiar en ti.",
+  "dialogue.remcompanion.rem.stranger.2": "Tengo hambre... Quizá si me trajeras algo de comer, hablaríamos.",
+  "dialogue.remcompanion.rem.first_gift": "Esto... ¿es para mí? Gracias. Eres amable. Desde ahora iré contigo, si me lo permites.",
+  "dialogue.remcompanion.rem.gift": "¡Gracias! Lo guardaré en mi corazón.",
+  "dialogue.remcompanion.rem.too_many_gifts": "Ya me has dado mucho hace un momento... estoy bien, de verdad.",
+  "dialogue.remcompanion.rem.other_owner": "Lo siento, mi corazón ya pertenece a otra persona.",
+  "dialogue.remcompanion.rem.stay": "De acuerdo, me quedaré aquí. Vuelve pronto.",
+  "dialogue.remcompanion.rem.follow": "¡Sí! Voy contigo.",
+  "dialogue.remcompanion.rem.death": "Rem ha caído... Tu compañera ya no está.",
+
+  "dialogue.remcompanion.rem.s1.0": "Todavía estoy aprendiendo cómo es este mundo. Gracias por llevarme contigo.",
+  "dialogue.remcompanion.rem.s1.1": "Me esforzaré por serte útil. Cuando haya peligro, yo me adelantaré.",
+  "dialogue.remcompanion.rem.s1.2": "No soy tan fuerte como parezco... pero no pienso rendirme.",
+
+  "dialogue.remcompanion.rem.s2.0": "Es agradable caminar a tu lado. Me siento tranquila.",
+  "dialogue.remcompanion.rem.s2.1": "¿Estás bien? Si estás cansado, descansa. Yo vigilaré.",
+  "dialogue.remcompanion.rem.s2.2": "Me gustaría poder cocinar para ti algún día. Al menos sé limpiar... ¡y pelear!",
+
+  "dialogue.remcompanion.rem.s3.0": "Cada día contigo me da más ganas de seguir adelante.",
+  "dialogue.remcompanion.rem.s3.1": "Si alguien intenta hacerte daño, tendrá que pasar sobre mí primero.",
+  "dialogue.remcompanion.rem.s3.2": "No tienes que cargar con todo tú solo. Para eso estoy yo.",
+
+  "dialogue.remcompanion.rem.s4.0": "Eres lo más importante para mí. Te protegeré con todo lo que tengo.",
+  "dialogue.remcompanion.rem.s4.1": "Gracias por encontrarme. Mi vida tiene sentido porque estoy a tu lado.",
+  "dialogue.remcompanion.rem.s4.2": "Pase lo que pase, siempre estaré contigo."
+}

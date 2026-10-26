@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="remcompanion"
+version="${file.jarVersion}"
+displayName="Rem Companion"
+description='''Rem (Re:Zero) como compañera jugable: habla con ella, cultiva vuestra relación y lucha a tu lado.'''
+
+[[dependencies.remcompanion]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47.4.0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.remcompanion]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"

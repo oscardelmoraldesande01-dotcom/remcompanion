@@ -1,0 +1,36 @@
+{
+  "entity.remcompanion.rem": "Rem",
+  "item.remcompanion.rem_spawn_egg": "Rem Spawn Egg",
+
+  "stage.remcompanion.rem.1": "Acquaintance",
+  "stage.remcompanion.rem.2": "Friend",
+  "stage.remcompanion.rem.3": "Very close",
+  "stage.remcompanion.rem.4": "Devoted",
+
+  "dialogue.remcompanion.rem.stranger.0": "...I don't know you. What do you want from me?",
+  "dialogue.remcompanion.rem.stranger.1": "Please keep your distance. I don't know if I can trust you yet.",
+  "dialogue.remcompanion.rem.stranger.2": "I'm hungry... Maybe if you brought me something to eat, we could talk.",
+  "dialogue.remcompanion.rem.first_gift": "Is this... for me? Thank you. You're kind. From now on I'll go with you, if you'll have me.",
+  "dialogue.remcompanion.rem.gift": "Thank you! I'll treasure it.",
+  "dialogue.remcompanion.rem.too_many_gifts": "You just gave me plenty... I'm fine, really.",
+  "dialogue.remcompanion.rem.other_owner": "I'm sorry, my heart already belongs to someone else.",
+  "dialogue.remcompanion.rem.stay": "Alright, I'll wait here. Come back soon.",
+  "dialogue.remcompanion.rem.follow": "Yes! I'm coming with you.",
+  "dialogue.remcompanion.rem.death": "Rem has fallen... Your companion is gone.",
+
+  "dialogue.remcompanion.rem.s1.0": "I'm still learning what this world is like. Thank you for taking me along.",
+  "dialogue.remcompanion.rem.s1.1": "I'll do my best to be useful. When there's danger, I'll step forward.",
+  "dialogue.remcompanion.rem.s1.2": "I'm not as strong as I look... but I won't give up.",
+
+  "dialogue.remcompanion.rem.s2.0": "It's nice walking beside you. I feel at ease.",
+  "dialogue.remcompanion.rem.s2.1": "Are you alright? If you're tired, rest. I'll keep watch.",
+  "dialogue.remcompanion.rem.s2.2": "I'd like to cook for you someday. At least I can clean... and fight!",
+
+  "dialogue.remcompanion.rem.s3.0": "Every day with you makes me want to keep going.",
+  "dialogue.remcompanion.rem.s3.1": "If anyone tries to hurt you, they'll have to get through me first.",
+  "dialogue.remcompanion.rem.s3.2": "You don't have to carry everything alone. That's what I'm here for.",
+
+  "dialogue.remcompanion.rem.s4.0": "You are the most important person to me. I'll protect you with everything I have.",
+  "dialogue.remcompanion.rem.s4.1": "Thank you for finding me. My life has meaning because I'm by your side.",
+  "dialogue.remcompanion.rem.s4.2": "No matter what happens, I'll always be with you."
+}
